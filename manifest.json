@@ -1,0 +1,14 @@
+{
+  "name": "ChatGPT Explainer",
+  "description": "Explain selected text using ChatGPT",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
