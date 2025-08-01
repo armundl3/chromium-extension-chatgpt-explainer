@@ -18,7 +18,7 @@ Explain any passage on the web — just highlight, right-click, and let ChatGPT 
 1. **Download / Clone this repo**
 
    ```bash
-   todo
+   git clone git@github.com:armundl3/chromium-extension-chatgpt-explainer.git
    ```
 
 ## Project Structure
